@@ -17,7 +17,7 @@ El proyecto destaca por la aplicación de lógica estructurada en el backend med
 ## Stack Tecnológico
 
 * **Backend:** PHP
-* **Frontend:** HTML5, CSS3
+* **Frontend:** HTML5, Bootstrap 5
 * **Modelado Técnico:** Diagramas de Procesos e Ingeniería Relacional
 
 ---
